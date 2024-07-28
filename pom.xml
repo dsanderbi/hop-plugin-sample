@@ -40,6 +40,7 @@
         <module>assemblies</module>
         <module>hop-bom</module>
         <module>hop-it</module>
+        <module>hop-textraction</module>
     </modules>
 
 
